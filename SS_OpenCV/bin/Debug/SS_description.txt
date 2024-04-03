@@ -1,0 +1,9 @@
+52755
+52853
+52579
+Indique aqui a lista de funcionalidades que valorizam o vosso projeto:
+O nosso projecto localiza com sucesso quase todas as imagens e supostos caracteres menos as imagens de tipo B de dificuldade 4, e uma das imagens do tipo A de dificuldade 4 que é tirada durante a noite.
+Em termos de reconhecimento de caracteres tem dificuldade a reconhecer para algumas matriculas 1 ou 2 caracteres, pois apos o corte, o caracter nao fica perfeitamente igual ao caracter da base de dados de caracteres fornecida
+e sendo que a comparação é feita pixel a pixel, não é feito um match certo.
+
+NOTA: não correr matrículas de dificuldade 4 do tipo B ou a segunda matricula de dificuldade 4 do tipo A, programa irá dar erro.
